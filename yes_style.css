@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #588eec;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+     background-color: #588eec;
+    color:#00e4fd;
+}
+
+.gif_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}
+
+.buttons{
+    margin-top: 20px;
+}
+
+.get-your-card{
+    font-size: 1.5em;
+    padding: 10px 20px;
+    background-color: #00e4fd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
